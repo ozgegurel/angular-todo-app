@@ -58,3 +58,6 @@
     top: -7px;
     left: -2px
 }
+.todo-complete {
+    text-decoration: line-through;
+  }
